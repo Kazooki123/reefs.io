@@ -68,7 +68,7 @@
 
 .btn-cta {
   background-color: #000;
-  color: #ff8c00;
+  color: #f26727;
   border: 2px solid #000;
   padding: 1rem 2.5rem;
   border-radius: 6px;
