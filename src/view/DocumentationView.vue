@@ -108,7 +108,6 @@
 </template>
 
 <script setup>
-// Component logic can be added here as needed
 </script>
 
 <style scoped>
